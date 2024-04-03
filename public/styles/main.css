@@ -1,0 +1,12 @@
+.title {
+  background-color: #f5f5f5;
+  color: #32174d;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  color: #32174d !important;
+}
